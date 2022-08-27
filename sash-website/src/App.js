@@ -1,5 +1,5 @@
 function App() {
-  return <div>Hello React!</div>;
+  return <div>Hello SASH!</div>;
 }
 
 export default App;
